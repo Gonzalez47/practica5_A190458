@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Series.xsl"?>
+<Series>
+    <Serie>
+        <Titulo>Percy Jackson y los Dioses del Olimpo</Titulo>
+        <Genero>Aventura</Genero>
+        <Año>2023</Año>
+    </Serie>
+     <Serie>
+        <Titulo>Loki</Titulo>
+        <Genero>Accion</Genero>
+        <Año>2021</Año>
+    </Serie>
+    <Serie>
+        <Titulo>Stranger Things Temporada 4</Titulo>
+        <Genero>Drama</Genero>
+        <Año>2022</Año>
+    </Serie>
+    <Serie>
+        <Titulo>El Mentalista</Titulo>
+        <Genero>Drama</Genero>
+        <Año>2008</Año>
+    </Serie>
+    <Serie>
+        <Titulo>The Flash</Titulo>
+        <Genero>Accion</Genero>
+        <Año>2014</Año>
+    </Serie>
+    <Serie>
+        <Titulo>Los chicos son mejores que las flores</Titulo>
+        <Genero>Comedia</Genero>
+        <Año>2009</Año>
+</Serie>
+</Series>
